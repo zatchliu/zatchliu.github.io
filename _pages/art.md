@@ -10,7 +10,7 @@ header:
 
 **Digital Art**
 
-[![batman-yer-one-blue](/assets/images/year-one-blue.jpg)](google.com)
+[![batman-yer-one-blue](/assets/images/year-one-blue.jpg)
 
 ![batmanyerone](/assets/images/year-one.jpg)
 
