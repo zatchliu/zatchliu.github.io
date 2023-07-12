@@ -17,4 +17,17 @@ header:
 
 
 **Traditional Art**
+![portrait](/assets/images/portrait.jpg)
+Medium: Charcoal
+
+![man](/assets/images/man_pastel.jpg)
+Medium: Pastels
+
+![girl](/assets/images/girl_conte.jpg)
+Medium: Conte
+
+![hands](/assets/images/hands.jpg)
+Medium: Charcoal
+
+
 
