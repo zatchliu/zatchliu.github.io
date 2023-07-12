@@ -8,6 +8,8 @@ header:
     teaser: /assets/images/year-one.jpg
 ---
 
+**Digital Art**
+
 [![batman-yer-one-blue](/assets/images/year-one-blue.jpg)](google.com)
 
 ![batmanyerone](/assets/images/year-one.jpg)
