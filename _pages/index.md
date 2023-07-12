@@ -12,4 +12,4 @@ Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusm
 <img src="assets/images/egg_hatcher_clip.gif" width="580" height="300" />
 
 **Art**
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40%" height="40%" />
+<img src="assets/images/year-one.jpg" width="580" height="300" />
