@@ -8,8 +8,11 @@ Hello there. Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore
 
 Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
 
-**Projects**
-<img src="assets/images/egg_hatcher_clip.gif" width="580" height="300" />
+[**Projects**](/projects/)
 
-**Art**
-<img src="assets/images/year-one.jpg" width="580" height="300" />
+<img src="assets/images/egg_hatcher_clip_.gif" width="600" height="300" />
+
+
+[**Art**](/art/)
+
+<img src="assets/images/year-one.jpg" width="600" height="300" />
