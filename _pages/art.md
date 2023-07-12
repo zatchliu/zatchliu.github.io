@@ -9,9 +9,12 @@ header:
 ---
 
 **Digital Art**
-
-[![batman-yer-one-blue](/assets/images/year-one-blue.jpg)
+![batman-yer-one-blue](/assets/images/year-one-blue.jpg)
 
 ![batmanyerone](/assets/images/year-one.jpg)
 
 ![spiderman](/assets/images/spider.jpg)
+
+
+**Traditional Art**
+
