@@ -9,7 +9,9 @@ author_profile: true
 
 ![egg](/assets/images/egg_hatcher_clip_.gif "title"){:height="400px" width="300px" .align-right}
 Egg Hatcher is based off [The Button](https://en.wikipedia.org/wiki/The_Button_(Reddit)). Uses flask and sqlalchemy as a webframework and database model. Integrates paper.js for interactive rendering of animations.
+
 <br>
+
 **Golf Data Visulizations**
 [Github](https://github.com/zatchliu/GolfDataVis)/[html](/assets/images/golfDataVis.html)
 
