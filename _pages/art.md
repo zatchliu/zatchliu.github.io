@@ -3,7 +3,7 @@ title: "Art"
 permalink: /art/
 layout: collection
 entries_layout: grid
-author_profile: false
+author_profile: true
 header:
     teaser: /assets/images/year-one.jpg
 ---
