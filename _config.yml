@@ -59,9 +59,6 @@ author:
   avatar : "/assets/images/batmanderp.jpg"
   bio    : "I am an Undergraduate Student at Wesleyan University"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/zatchliu"
