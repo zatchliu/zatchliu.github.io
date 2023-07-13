@@ -15,7 +15,7 @@ header:
 
 ![spiderman](/assets/images/spider.jpg)
 
-</br>
+
 
 **Traditional Art**
 ![portrait](/assets/images/portrait.jpg)
