@@ -4,7 +4,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-**Egg Hatcher**
+### **Egg Hatcher**
 [Github](https://github.com/zatchliu/Egg_Hatcher)
 
 ![egg](/assets/images/egg_hatcher_clip_.gif "title"){:height="400px" width="300px" .align-right}
@@ -12,7 +12,7 @@ Egg Hatcher is based off [The Button](https://en.wikipedia.org/wiki/The_Button_(
 
 
 
-**Golf Data Visulizations**
+### **Golf Data Visulizations**
 [Github](https://github.com/zatchliu/GolfDataVis)/[html](/assets/images/golfDataVis.html)
 
 ![vis](/assets/images/vis_screen.jpg "title"){:height="400px" width="300px" .align-right}
