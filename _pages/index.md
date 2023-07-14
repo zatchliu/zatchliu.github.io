@@ -4,7 +4,7 @@ title: "Home"
 author_profile: true
 ---
 
-Hello there. My name is Zachary Liu, and I'm currently an undergraduate student at Wesleyan University. I am an aspiring Computer Scientist, and I also love to draw, golf, and make origmai.
+Hello there. My name is Zachary Liu, and I'm currently an undergraduate student at Wesleyan University. I am an aspiring Computer Scientist, and I also love to draw.
 
 Check out some of my projects and art:
 
