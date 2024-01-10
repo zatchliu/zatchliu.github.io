@@ -7,7 +7,7 @@ author_profile: true
 **Elden Ring Character Tracker**
 [Github](https://github.com/zatchliu/eldenring-tracker)
 
-![egg](/assets/images/eldenringtracker_screenshot.png "title"){:height="400px" width="300px" .align-right}
+![eldenring](/assets/images/eldenringtracker_screenshot.png "title"){:height="400px" width="300px" .align-right}
 A web app build with Django that allows users to track character profiles for the Elden Ring video game. Game information is pulled from and open source [Elden Ring API](https://eldenring.fanapis.com/).
 
 <br>
