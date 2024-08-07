@@ -4,7 +4,7 @@ title: "Home"
 author_profile: true
 ---
 
-Hello there. My name is Zachary Liu, and I'm currently an undergraduate student at Wesleyan University. I am interested in Computer Science and Data Science. I am also passionate about art and love to draw.
+Hello there. My name is Zachary Liu, and I'm currently a Computer Science major and Data Analysis minor at Wesleyan University. I am also passionate about art and love to draw.
 
 Check out some of my projects and art:
 
