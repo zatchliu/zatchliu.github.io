@@ -3,3 +3,5 @@ main:
     url: /projects/
   - title: "Art"
     url: /art/
+  -title: "IDEAs"
+    url: /ideas/
