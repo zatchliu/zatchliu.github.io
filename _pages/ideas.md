@@ -1,5 +1,5 @@
 ---
-title: "IDEAs"
+title: "IDEAs Projects"
 permalink: /ideas/
 author_profile: true
 ---
