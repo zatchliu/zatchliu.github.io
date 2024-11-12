@@ -1,6 +1,6 @@
 ---
 title: "IDEA: Visual Catalog"
-permalink: /ideas/visual-catalog
+permalink: /ideas/visual-catalog/
 excerpt_separator: "<!--more-->"
 ---
 

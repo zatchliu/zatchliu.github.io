@@ -1,6 +1,6 @@
 ---
 title: "IDEA: Lithophane"
-permalink: /ideas/lithophane
+permalink: /ideas/lithophane/
 excerpt_separator: "<!--more-->"
 ---
 

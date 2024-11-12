@@ -1,6 +1,6 @@
 ---
 title: "IDEA: Paper Lampshade"
-permalink: /ideas/paper-lampshade
+permalink: /ideas/paper-lampshade/
 excerpt_separator: "<!--more-->"
 ---
 
