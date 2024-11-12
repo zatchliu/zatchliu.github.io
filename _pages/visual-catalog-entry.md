@@ -2,6 +2,7 @@
 title: "Visual Catalog"
 permalink: /ideas/visual-catalog/
 excerpt_separator: "<!--more-->"
+author_profile: false
 ---
 *Collaborated with Zach Rosen*
 

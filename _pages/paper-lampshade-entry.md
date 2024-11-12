@@ -13,23 +13,23 @@ The design for the units was based off a modified sonobe unit. Some 'panels' of 
 
 ![sonobe-unit](/assets/images/sonobe-unit.jpg) 
 <br>
-Design for Modified Sonobe Unit
+*Design for Modified Sonobe Unit*
 
 Orignially I used standard copy paper, but I quickly found that the paper was still too think and minimal light was able to pass through. I switched to thinner parchment paper, and iterated on the modified sonobe unit design to further reduce the layers of paper. 
 
 ![copy-paper-proto](/assets/images/copy-paper-proto.jpg) 
 <br>
-Copy paper prototype
+*Copy paper prototype*
 
 ![inkscape-unit](/assets/images/inkscape-unit.png) 
 <br>
-Final Unit Design in Inkscape
+*Final Unit Design in Inkscape*
 
 ![lamp-proto2](/assets/images/lamp-proto2.jpg)
 <br>
-Second full prototype
+*Second full prototype*
 
 Based of feedback, the main task now was to up the scale and create more units to esablished a more full, final form of the lampshade.
 
 ![full-lampshade](/assets/images/full-lampshade.jpg)
-Final lampshade
+*Final lampshade*
