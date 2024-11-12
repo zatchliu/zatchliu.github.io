@@ -5,10 +5,11 @@ author_profile: true
 ---
 
 **IDEA 292**
-Visual Catalog
+<br>
+[Visual Catalog](/ideas/visual-catalog)
 ![full-visual-catalog](/assets/images/full-visual-catalog.jpg)
 
-Paper Lampshade
+[Paper Lampshade](/ideas/paper-lampshade)
 ![full-lampshade](/assets/images/full-lampshade.jpg)
 
-Lithophane
+[Lithophane](/ideas/lithophane)
