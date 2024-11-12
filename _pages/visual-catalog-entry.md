@@ -5,9 +5,9 @@ excerpt_separator: "<!--more-->"
 ---
 *Collaborated with Zach Rosen*
 
+![lamp](/assets/images/lamp.jpg "title"){:height="400px" width="300px" .align-right}
 The purpose of this project was to create an anaytical drawing of an existing lighting system. The drawing would capture as thoroughly as possible the range of visual, material, scalar, electrical, and mechanical conditions of the assembly.
 
-![lamp](/assets/images/lamp.jpg "title"){:height="400px" width="300px" .align-right}
 This lighting system that We chose was a standard table lamp. This kind of lamp would usually be found in a household setting such as in a living room or on a bedside nightstand.
 
 ![lamp-teardown](/assets/images/lamp-teardown.jpg)
