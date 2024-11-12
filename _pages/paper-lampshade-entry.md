@@ -1,5 +1,5 @@
 ---
-title: "IDEA: Paper Lampshade"
+title: "Paper Lampshade"
 permalink: /ideas/paper-lampshade/
 excerpt_separator: "<!--more-->"
 ---
