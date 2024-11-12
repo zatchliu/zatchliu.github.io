@@ -18,9 +18,11 @@ INSERT IMAGE OF COPY PAPER PROTOTYPE
 Copy paper prototype
 
 ![inkscape-unit](/assets/images/inkscape-unit.png)
+
 Final Unit Design
 
-![lamp-proto2](/assets/images/lamp-proto2)
+![lamp-proto2](/assets/images/lamp-proto2.jpg)
+
 Second full prototype
 
 Based of feedback, the main task now was to up the scale and create more units to esablished a more full, final form of the lampshade.
