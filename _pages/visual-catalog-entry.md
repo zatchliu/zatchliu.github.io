@@ -12,10 +12,10 @@ The purpose of this project was to create an anaytical drawing of an existing li
 This lighting system that We chose was a standard table lamp. This kind of lamp would usually be found in a household setting such as in a living room or on a bedside nightstand.
 
 ![lamp-teardown](/assets/images/lamp-teardown.jpg)
-Teardown of the lamp
+*Teardown of the lamp*
 
 ![full-visual-catalog](/assets/images/full-visual-catalog.jpg)
-The Final drawing
+*The Final drawing*
 
 The pinup mainly focuses on the parts, mechanisms, functionality, and other physical
 properties of the lamp. The lamp teardown on the left side of the pinup showcases all the main

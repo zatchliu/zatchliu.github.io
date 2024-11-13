@@ -13,3 +13,4 @@ author_profile: true
 ![full-lampshade](/assets/images/full-lampshade.jpg)
 
 [Lithophane](/ideas/lithophane)
+INSERT LITHOPHANE PHOTO HERE
