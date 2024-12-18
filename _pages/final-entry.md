@@ -15,7 +15,7 @@ We knew from the start that wanted to combine our project with some software ele
 We later to moved to idea that involved creating a mobile app that scans and abstracts an image of a users eye, adding an interative element to the project. The outer panel would also be changed to be composed of smaller, modular units, so that when assembled it would add some tactility and dynamic movement to the LED matrix panel.
 
 ![conceptfinal](/assets/images/conceptfinal.png)
-<br>
+
 *Concept Drawings*
 
 **Materials**
