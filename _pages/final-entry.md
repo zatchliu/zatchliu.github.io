@@ -61,7 +61,7 @@ There were several iterations of the outer Panel. The first iteration was a stat
 <br>
 *Prototype of final Panel design*
 
-![finalpanelarray](finalpanelarray.png)
+![finalpanelarray](/assets/images/finalpanelarray.png)
 <br>
 *Final design with previous iterations in front*
 
@@ -69,11 +69,11 @@ There were several iterations of the outer Panel. The first iteration was a stat
 
 The LED matrix and panel were housed in a simple but effect wooden frame. The contruction was made of 4 edges with a recessed portion on the outer edges to hold the 3D printed outer panel. The frame was also stained to create a smooth and polished finish.
 
-![framedrying](framedrying.png)
+![framedrying](/assets/images/framedrying.png)
 <br>
 *The frame as the glue was drying*
 
-![assembledframe](assembledframe.png)
+![assembledframe](/assets/images/assembledframe.png)
 <br>
 *Assembled frame*
 
@@ -81,10 +81,10 @@ The LED matrix and panel were housed in a simple but effect wooden frame. The co
 
 Overall the physcial construction of the project was a success. The PETG panel and LED Matrix were housed seamlessly in the wooden frame. The app work well and the color abstraction of the images gave insterseting and aesthetic results. The limitations with the ESP32 were disappointing, but given more time and use of more power hardware, such as a Raspberry Pi, the issues could be addressed and solved.
 
-![finaloff](idea292_final_off.jpg)
+![finaloff](/assets/images/idea292_final_off.jpg)
 <br>
 *Final product with lights off*
 
-![finalon](idea292_final_on.jpg)
+![finalon](/assets/images/idea292_final_on.jpg)
 <br>
 *Final product with lights on*
