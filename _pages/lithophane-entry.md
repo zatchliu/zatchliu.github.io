@@ -10,6 +10,7 @@ The main purpose of this project was to get exposed to different engineering too
 My personal design goal was to make a lithophane resemebling an Estus flask from the video game series, *Dark Souls*. In the game, it is a bottle of liquid fire, which I thought fit well with the theme of light.
 
 **CNC**
+
 A basic model of a the base, top, and circuit were modeled in Solidworks then prepped in VCarve. The top and base were CNC'd from wood, and the circuit from a copper plate.
 
 ![circuit](/assets/images/circuit.png)
@@ -17,6 +18,7 @@ A basic model of a the base, top, and circuit were modeled in Solidworks then pr
 *Circuit*
 
 **Soldering**
+
 The LED unit, resistor, and potentiometer were soldered into the appropriate places on the circuit.
 
 ![lithobase](/assets/images/lithobase.png)
@@ -24,6 +26,7 @@ The LED unit, resistor, and potentiometer were soldered into the appropriate pla
 *Completed ciruit housed in the base*
 
 **3D Printing**
+
 First, a basic cylinder was modeled with a marble/rock texture height mapped on it to mimic the cracked an rugged texture of an Estus flask.
 
 ![lithoheightmap](/assets/images/lithoheightmap.png)
