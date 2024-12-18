@@ -13,12 +13,14 @@ My personal design goal was to make a lithophane resemebling an Estus flask from
 A basic model of a the base, top, and circuit were modeled in Solidworks then prepped in VCarve. The top and base were CNC'd from wood, and the circuit from a copper plate.
 
 ![circuit](/assets/images/circuit.png)
-*Ciruit*
+
+*Circuit*
 
 **Soldering**
 The LED unit, resistor, and potentiometer were soldered into the appropriate places on the circuit.
 
 ![lithobase](/assets/images/lithobase.png)
+
 *Completed ciruit housed in the base*
 
 **3D Printing**
