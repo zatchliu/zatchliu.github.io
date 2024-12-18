@@ -13,4 +13,7 @@ author_profile: true
 ![full-lampshade](/assets/images/full-lampshade.jpg)
 
 [Lithophane](/ideas/lithophane)
-INSERT LITHOPHANE PHOTO HERE
+![estus-litho](/assets/images/estuslitho.jpg)
+
+[Final Project](/ideas/292final)
+![292-final](/assets/images/292final.jpg)
