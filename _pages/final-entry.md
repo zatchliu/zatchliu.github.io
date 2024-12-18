@@ -23,7 +23,7 @@ We later to moved to idea that involved creating a mobile app that scans and abs
 - Wood: for the frame that would house the components
 - ESP32: as the microcontroller
 - PETG: for the 3D printed modular outer panel
-- Four 8x32 LED matricies: for the 32x32 LED matrix
+- Four 8x32 LED matrices: for the 32x32 LED matrix
 
 **The App**
 
