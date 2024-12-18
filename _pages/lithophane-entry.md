@@ -35,7 +35,7 @@ First, a basic cylinder was modeled with a marble/rock texture height mapped on 
 ![lithocylinder](/assets/images/lithocylinder.png)
 *Solidworks Model of Lithophane Cylinder after height mapping*
 
-I then created another model after the shape of an Estus flask. This model had to broken up into two parts to avoid any overhanging issues: the upper bottleneck and the main body of the flask. 
+The second model was in the shape of an Estus flask. This model had to broken up into two parts to avoid any overhanging issues: the upper bottleneck and the main body of the flask. The two pieces would then be glued together. It was 3D printed using bronze PLA filament.
 
 ![estuslitho](/assets/images/estuslitho.jpg)
 *3D print of Estus Flask Lithophane*
