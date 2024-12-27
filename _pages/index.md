@@ -11,7 +11,8 @@ Check out some of my projects and art:
 [**Projects**](/projects/)
 <img src="assets/images/egg_hatcher_clip_.gif" width="600" height="300" />
 
-
+[**IDEAs**](/ideas/)
+<img src="assets/images/idea292_final_on.jpg" width="600" height="300" />
 
 [**Art**](/art/)
 <img src="assets/images/year-one.jpg" width="600" height="300" />
