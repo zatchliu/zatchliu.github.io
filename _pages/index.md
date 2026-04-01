@@ -4,12 +4,6 @@ title: "Home"
 author_profile: true
 ---
 
----
-permalink: /
-title: "Home"
-author_profile: true
----
-
 ## About
 
 Hi, I'm **Zachary Liu**. I work at the intersection of software, data, design, and art, building things that run in the browser and in the shop.
