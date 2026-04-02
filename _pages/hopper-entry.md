@@ -29,7 +29,7 @@ The first prototype was constructed in the first few studio sessions leading up 
 
 The balloon was zip tied to a plastic tube to slow down the rate at which it would deflate. A wire was also inserted into the tube to further slow it down  
 
-![hopper-balloon](/assets/images/hopper_balloon.png)
+![hopper-balloon](/assets/images/hopper_ballon.png)
 <br>
 *Hopper Balloon Timer*
 
@@ -55,7 +55,7 @@ The functionality of the hopper was working well at this stage, but I was ideati
 
 A flaw that came up during my second design review was that after repeated use, hairline cracks would start to appear near the base of the legs where the springs were attached. To combat this, I drafted a new design for the lefts that would be used to the next prototype.
 
-![reinforced-legs](/assets/images/reinforced_legs.png)
+![reinforced-legs](/assets/images/reinforced_hopper_legs.png)
 <br>
 *Reinforced Legs*
 

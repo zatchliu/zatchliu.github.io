@@ -8,7 +8,7 @@ The Integrated Design, Engineering, Arts & Society (IDEAS) program is an interdi
 ## IDEA 170: Introduction to Mechanical Design and Engineering
 [View course page](/ideas/170/)
 
-![IDEA 292 preview](/assets/images/292final.jpg)
+![IDEA 170 preview](/assets/images/full_duck.jpg)
 
 [Related projects](/ideas/170/#projects)
 ---
