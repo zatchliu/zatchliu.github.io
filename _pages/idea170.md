@@ -4,12 +4,11 @@ permalink: /ideas/170/
 author_profile: false
 ---
 
-IDEAS 292 is the 
+IDEAS 170 is a hands-on approach to an introduction on design and engineering. We studied biological organisms to find inspiration for design of hoppers, swimmers, and climbers.
 
-![IDEAS 292 cover](/assets/images/292final.jpg)
+![IDEAS 170 cover](/assets/images/292final.jpg)
 
 ## Projects {#projects}
 
-- [Paper Lampshade](/ideas/paper-lampshade/)
-- [Lithophane](/ideas/lithophane/)
-- [Final Project](/ideas/292final/)
+- [Hopper](/ideas/hopper/)
+- [Duck Swimmer](/ideas/)
