@@ -11,4 +11,4 @@ IDEAS 170 is a hands-on approach to an introduction on design and engineering. W
 ## Projects {#projects}
 
 - [Hopper](/ideas/hopper/)
-- [Duck Swimmer](/ideas/)
+- [Duck Swimmer](/ideas/duck/)
