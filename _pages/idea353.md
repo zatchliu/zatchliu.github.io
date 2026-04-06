@@ -6,10 +6,9 @@ author_profile: false
 
 IDEAS 353 
 
-![IDEAS 292 cover](/assets/images/292final.jpg)
+![IDEAS 353 cover](/assets/images/292final.jpg)
 
 ## Projects {#projects}
 
-- [Paper Lampshade](/ideas/paper-lampshade/)
-- [Lithophane](/ideas/lithophane/)
-- [Final Project](/ideas/292final/)
+- [Soft Actuators](/ideas/soft-actuators/)
+- [Clambering Robot](/ideas/clambering-robot/)
