@@ -26,7 +26,7 @@ The Integrated Design, Engineering, Arts & Society (IDEAS) program is an interdi
 ## IDEAS/COMP 353: Robotics
 [View course page](/ideas/353/)
 
-![IDEA 353 preview](/assets/images/)
+![IDEA 353 preview](/assets/images/rocky_the_robot.jpeg)
 
 [Related projects](/ideas/353/#projects)
 

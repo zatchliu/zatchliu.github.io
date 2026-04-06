@@ -1,12 +1,12 @@
 ---
-title: "IDEAS 292"
-permalink: /ideas/292/
+title: "IDEAS 353"
+permalink: /ideas/353/
 author_profile: false
 ---
 
 IDEAS 353 
 
-![IDEAS 353 cover](/assets/images/292final.jpg)
+![IDEAS 353 cover](/assets/images/rocky_the_robot.jpeg)
 
 ## Projects {#projects}
 

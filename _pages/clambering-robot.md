@@ -4,25 +4,30 @@ permalink: /ideas/clambering-robot/
 excerpt_separator: "<!--more-->"
 author_profile: false
 ---
-
 *Worked with Nishant Aggarwal*
 
-The focus of this project was to create two soft actuators. An actuator is any device that can convert energy into physical motion. Actuators can be powered by electricity, hydraulics, or pneumatics. For the soft actuators built in this project, we focused on pneumatic actuators. 
+[Download the full report (PDF)](/assets/images/robotics_report2-3.pdf)
 
+The focus of this project was to create a clambering robot. Specifically, the robot has to use legged locomotion. This forces a more thoughtful approach to the design of the legs and how they interact with their environment. Nishant and I decided to construct a RHex inspired hexapod for our clambering robot.
 
-**Silicone Bending Actuator**
+**Rocky the RHex inspired hexapod**
 
-![silicone-bending-actuator](/assets/images/actutor_mold.jpeg)
+![daisy-chain](/assets/images/daisy_chain.jpg)
 <br>
-*Silicone Bending Actuator Mold*
+*Daisy Chained Motors*
 
-![silicone-bending-actuator-prototype](/assets/images/actuator_motion.jpeg)
+![rocky-chassis](/assets/images/rocky_chassis.jpg)
 <br>
-*Silicone Bending Actuator in Motion*
+*Prototype Chassis*
 
-**Pneumatic Artificial Muscles (PAM)**
-
-![pam-motion](/assets/images/pam_motion.jpeg)
+![assembling-rocky](/assets/images/assembling_rocky.png)
 <br>
-*PAM in Motion*
+*Assembling Rocky*
 
+![silicon-traction](/assets/images/silicon_traction.png)
+<br>
+*Silicon Traction and Mold*
+
+![rocky-final](/assets/images/rocky_the_robot.jpeg)
+<br>
+*Final Completed Robot*
