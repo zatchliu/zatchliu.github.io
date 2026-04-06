@@ -13,16 +13,16 @@ The focus of this project was to create two soft actuators. An actuator is any d
 
 **Silicone Bending Actuator**
 
-![silicone-bending-actuator](/assets/images/actutor_mold.jpeg)
+![silicone-bending-actuator](/assets/images/actuator_mold.jpeg)
 <br>
 *Silicone Bending Actuator Mold*
 
-![silicone-bending-actuator-prototype](/assets/images/actuator_motion.jpeg)
+![silicone-bending-actuator-prototype](/assets/images/actuator_motion.png)
 <br>
 *Silicone Bending Actuator in Motion*
 
 **Pneumatic Artificial Muscles (PAM)**
 
-![pam-motion](/assets/images/pam_motion.jpeg)
+![pam-motion](/assets/images/pam_motion.png)
 <br>
 *PAM in Motion*
